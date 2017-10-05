@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="finish">Acabar</string>
+    <string name="next">Següent</string>
+    <string name="noans">No contestades</string>
+    <string name="notok">Incorrectes</string>
+    <string name="ok">Correctes</string>
+    <string name="previous">Anterior</string>
+    <string name="question">Pregunta</string>
+    <string name="results">Resultats</string>
+    <string name="start_over">Començar de nou</string>
+    <string name="question1">Quina és la capital de Catalunya?;Girona;Lleida;Tarragona;*Barcelona</string>
+    <string name="question2">Quina nota em mareixo?;*10;9;8;7</string>
+</resources>
